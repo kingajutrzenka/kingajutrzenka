@@ -5,4 +5,5 @@ I'm learning how to use Artificial Intelligence to help people with mental healt
 Right now, I'm learning Python and libraries like NumPy, Pandas, scikit-learn, seaborn and Matplotlib 🐼📊  
 
 I believe technology can make life better 💙  
+
 If you have an idea or just want to talk - feel free to message me! 💬✨
