@@ -1,11 +1,13 @@
-**Hi! I'm Kinga 😊** 
+**Hi! I'm Kinga 😊**
 
-I'm learning how to use Artificial Intelligence to help people with mental health problems 👩‍💻🧠  
+I'm a first-year Applied Mathematics student at Nicolaus Copernicus University in Toruń.
+I'm exploring the field of Machine Learning, with a particular focus on algorithms like LightGBM, XGBoost, CatBoost, and DBSCAN.
 
-Right now, I'm learning Python and libraries like NumPy, Pandas, scikit-learn, seaborn and Matplotlib 🐼📊
+I take part in Kaggle competitions and treat them as a way to learn, experiment, and grow as a future data scientist.
+I'm especially curious about how technology can be used for good — even if I’m still figuring out what that means for me. 🌱
 
-And make a lot of things just for fun :)
+Right now, I’m focusing on building a strong foundation in Python, NumPy, pandas, and scikit-learn.
 
-I believe technology can make life better 💙  
+Math meets machine learning — and I’m here for it. 🤍
 
-If you have an idea or just want to talk - feel free to message me! 💬✨
+Feel free to message me — I love exchanging ideas and experiences! 💬
