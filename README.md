@@ -4,7 +4,7 @@ I'm a first-year Applied Mathematics student at Nicolaus Copernicus University i
 I'm exploring the field of Machine Learning, with a particular focus on algorithms like LightGBM, XGBoost, CatBoost, and DBSCAN.
 
 I take part in Kaggle competitions and treat them as a way to learn, experiment, and grow as a future data scientist.
-I'm especially curious about how technology can be used for good — even if I’m still figuring out what that means for me. 🌱
+I'm especially curious about how technology can be used for good. 🌱
 
 Right now, I’m focusing on building a strong foundation in Python, NumPy, pandas, and scikit-learn.
 
