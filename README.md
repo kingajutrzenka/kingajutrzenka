@@ -8,6 +8,6 @@ I'm especially curious about how technology can be used for good. 🌱
 
 Right now, I’m focusing on building a strong foundation in Python, NumPy, pandas, and scikit-learn.
 
-Math meets machine learning — and I’m here for it. 🤍
+Math meets machine learning — and I’m here for it. 
 
 Feel free to message me! 💬
