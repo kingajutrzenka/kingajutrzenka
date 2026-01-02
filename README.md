@@ -1,12 +1,17 @@
-**Hi! I'm Kinga 😊!**
+**Hi, I’m Kinga 🙂**
 
-I'm a first-year Applied Mathematics student at Nicolaus Copernicus University in Toruń.
+I’m a first-year Applied Mathematics student at Nicolaus Copernicus University in Toruń 🎓
 
-I'm exploring the fields of Machine Learning and I'm learning to create VR experiences as a member of the University Cognitive Science Club (UKK).
+This GitHub is where I keep the things I’m learning and working on while figuring out programming, machine learning, and how math shows up in code.
 
-In my free time (though I don’t have much of it now 😜), I take part in Kaggle competitions, work on projects, and grow as a future AI engineer.
+Right now, I’m mostly:
+- learning the basics of ML algorithms,
+- trying to understand data and models instead of just using libraries,
+- writing code, breaking it, and fixing it again.
 
-I'm especially curious about tech for good. 🌱🐴👩🏻
+Some of the projects here are from earlier stages. They’re not meant to be perfect - they show what I was learning at the time.
 
-Feel free to message me! 
+I’m curious about using AI in a thoughtful and responsible way 🌱
 
+This profile will probably change as I learn more.
+Feel free to reach out 🙂
