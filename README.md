@@ -1,17 +1,9 @@
-**Hi, I’m Kinga 🙂**
+**Hi, I’m Kinga 🙂✨**
 
-I’m a first-year Applied Mathematics student at Nicolaus Copernicus University in Toruń 🎓
+Applied Mathematics student at Nicolaus Copernicus University in Toruń 🎓
 
-This GitHub is where I keep the things I’m learning and working on while figuring out programming, machine learning, and how math shows up in code.
+AI, Unity VR, and a lot of caffeine.
 
-Right now, I’m mostly:
-- learning the basics of ML algorithms,
-- trying to understand data and models instead of just using libraries,
-- writing code, breaking it, and fixing it again.
+Just a girl breaking (and fixing) code.
 
-Some of the projects here are from earlier stages. They’re not meant to be perfect - they show what I was learning at the time.
-
-I’m curious about using AI in a thoughtful and responsible way 🌱
-
-This profile will probably change as I learn more.
-Feel free to reach out 🙂
+****![37707d99136202dc589c912c3ca865b5](https://github.com/user-attachments/assets/0678090d-aa24-40f7-8bdc-c892639d54ce)
