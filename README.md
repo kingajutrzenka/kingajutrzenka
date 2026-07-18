@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=5B83AB&center=true&vCenter=true&width=900&height=44&lines=Applied%20mathematics%20student%20from%20Poland%20with%20a%20passion%20for%20data.;Welcome%20to%20my%20profile!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=A4BAD0&center=true&vCenter=true&width=900&height=44&lines=Applied%20mathematics%20student%20from%20Poland%20with%20a%20passion%20for%20data.;Welcome%20to%20my%20profile!" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -54,12 +54,9 @@ I am a 2nd-year Applied Mathematics Engineering student at Nicolaus Copernicus U
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=E6E5DA&title_color=5B83AB&text_color=181C1D&icon_color=A4BAD0&border_color=E6E5DA&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=E6E5DA&title_color=5B83AB&text_color=181C1D&border_color=E6E5DA&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&langs_count=8" alt="top langs" />
 </p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/kingajutrzenka">kingajutrzenka</a></i></p>
-
-
-
