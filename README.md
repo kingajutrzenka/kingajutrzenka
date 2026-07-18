@@ -55,13 +55,13 @@ I am a 2nd-year Applied Mathematics Engineering student at Nicolaus Copernicus U
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&text_color=E6E5DA&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&text_color=181C1D&count_private=true">
-    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&text_color=181C1D&count_private=true" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&text_color=FFFFFF&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&text_color=000000&count_private=true">
+    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kingajutrzenka&show_icons=true&bg_color=00000000&hide_border=true&title_color=5B83AB&icon_color=A4BAD0&text_color=000000&count_private=true" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&text_color=E6E5DA&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&text_color=181C1D&langs_count=8">
-    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&text_color=181C1D&langs_count=8" alt="top langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&text_color=FFFFFF&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&text_color=000000&langs_count=8">
+    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kingajutrzenka&layout=compact&bg_color=00000000&hide_border=true&title_color=5B83AB&text_color=000000&langs_count=8" alt="top langs" />
   </picture>
 </p>
